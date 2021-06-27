@@ -1,0 +1,23 @@
+{
+  "name": "mini-vue",
+  "version": "1.0.0",
+  "description": "简单的vue模型",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruizer/mini-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "mini-vue"
+  ],
+  "author": "ruizer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruizer/mini-vue/issues"
+  },
+  "homepage": "https://github.com/ruizer/mini-vue#readme"
+}
